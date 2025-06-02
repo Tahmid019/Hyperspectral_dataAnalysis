@@ -1,0 +1,10 @@
+"","VNIR","SWIR","PAN"
+"Spectral range","400-1010nm","920-2500nm","400–750 nm"
+"Spectral resolution","12nm","12nm",""
+"Spectral bands","66","173","1"
+"SNR",">200:1 on 400–1000 nm> 600:1 @ 650 nm",">200:1 on 1000–1750 nm> 400:1 @ 1550 nm> 100:1 on 1950–2350 nm> 200:1 @ 2100 nm",">240:1"
+"MTF","@ Nyquist Frequency > 0.3","@ Nyquist Frequency > 0.3","@ Nyquist Frequency > 0.2"
+"Swath width","30 Km; 2.77°",,
+"Spatial resolution","30 m","30 m","5 m"
+"Telescope aperture","210 mm (diameter)",,
+"Orbital altitude","615 Km",,
