@@ -1,2 +1,6 @@
 *.mat
 /datasets
+/myenv
+*.pkl
+*.pth
+*.csv
